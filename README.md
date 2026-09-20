@@ -14,6 +14,16 @@ A .NET console application that models visitor, ticket, ride, reservation, facil
 - Friendly business-rule errors through a custom exception
 - Seed data for immediate demonstration
 
+## Screenshots
+
+### Main menu
+
+![Horizon Adventure Park main menu](docs/screenshots/main-menu.png)
+
+### Ride occupancy and reservations
+
+![Ride occupancy and reservation status](docs/screenshots/ride-status.png)
+
 ## Technology and design
 
 - C# and .NET 10
